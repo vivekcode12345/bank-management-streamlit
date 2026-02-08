@@ -13,10 +13,10 @@ A simple Bank Management System built using Python and Streamlit that allows use
 ## 🖼️ Screenshots
 
 ### 📌 App Home  
-![App Home](screenshots/home.png)
+![App Home](screenshot/home.png)
 
 ### 📌 Deposit / Withdraw  
-![Transactions](screenshots/transactions.png)
+![Transactions](screenshot/transactions.png)
 
 ---
 
