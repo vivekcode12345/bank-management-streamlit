@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Vivek Vemra",
+        "age": 23,
+        "email": "vivek@123",
+        "pin": 5643,
+        "accountNo": "l40%7Yp",
+        "balance": 0
+    },
+    {
+        "name": "Vivek Verma",
+        "age": 34,
+        "email": "vivek7148verma@gmail.com",
+        "pin": 5432,
+        "accountNo": "!1TN5X7",
+        "balance": 1000
+    },
+    {
+        "name": "Sonu singh",
+        "age": 23,
+        "email": "vivek7148verma@gmail.com",
+        "pin": 6753,
+        "accountNo": "#wv149Z",
+        "balance": 0
+    }
+]
