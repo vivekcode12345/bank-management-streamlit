@@ -22,5 +22,21 @@
         "pin": 6753,
         "accountNo": "#wv149Z",
         "balance": 0
+    },
+    {
+        "name": "Rajan",
+        "age": 45,
+        "email": "rj12@gmail.com",
+        "pin": 1234,
+        "accountNo": "ueR24^7",
+        "balance": 0
+    },
+    {
+        "name": "Vivek Verma",
+        "age": 42,
+        "email": "vivek7148verma@gmail.com",
+        "pin": 1234,
+        "accountNo": "u!I906v",
+        "balance": 1000
     }
 ]
