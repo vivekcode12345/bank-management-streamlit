@@ -40,17 +40,16 @@ A simple Bank Management System built using Python and Streamlit that allows use
 ## 📥 How to Run Locally
 
 1. Clone this repo  
-   ```bash
-   git clone https://github.com/vivekcode12345/bank-management-streamlit.git
+   ```git clone https://github.com/vivekcode12345/bank-management-streamlit.git```
 2. Change directory
-   cd bank-management-streamlit
+   ```cd bank-management-streamlit```
 3. Create Virtual Env
-   python3 -m venv .venv
+   ```python3 -m venv .venv```
    source .venv/bin/activate
 4. Install requirements
-   pip install streamlit
+   ```pip install streamlit```
 5. Run App
-   streamlit run app.py
+   ```streamlit run app.py```
 
 📄 License
 
